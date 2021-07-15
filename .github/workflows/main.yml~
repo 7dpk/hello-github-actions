@@ -1,1 +1,2 @@
-name:
+name: A workflow for HW file
+on: push
